@@ -1,0 +1,45 @@
+* {
+
+}
+
+body {
+  background-image: url('./../images/pise.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+iframe {
+  border: 1px inset red;
+  width: 100% important!;
+}
+
+textarea, input {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+blockquote {
+  font-size: 1em;
+}
+
+#carte {
+  text-align: right;
+}
+
+p {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black
+}
+
+.trait {
+  border: 1px inset lightgrey;
+  width: 758px;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
